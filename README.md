@@ -1,5 +1,6 @@
 # 🖼️ Image Analyzer — Offline AI Image Captioning App (FastAPI + BLIP)
-
+![Home Page](home.png)
+![Result Page](img1.png)
 This project is a simple and beautiful web app that allows users to upload an image and get an AI-generated description of the image — all running locally on your machine without any cloud API.
 
 It uses **FastAPI** for the backend, **Jinja2** for HTML rendering, and the **BLIP image captioning model** from Hugging Face to generate descriptions for the uploaded images.
